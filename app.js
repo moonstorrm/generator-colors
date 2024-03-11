@@ -1,6 +1,6 @@
-const cols = document.querySelectorAll('.col') //Этот код выбирает все элементы с классом 'col' и сохраняет их в переменной cols.
+const cols = document.querySelectorAll('.col') //Выбирает все элементы с классом 'col' и сохраняет их в переменной cols.
 
-/*Этот код добавляет слушатель событий на документ для события 'keydown'. 
+/*Добавляет слушатель событий на документ для события 'keydown'. 
 Когда нажимается клавиша пробела (event.code.toLowerCase() === 'space'), 
 вызывается функция setRandomColors()*/
 document.addEventListener('keydown', (event) => {
