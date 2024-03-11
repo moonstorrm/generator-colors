@@ -1,1 +1,1 @@
-# generator-colors
+Генератор цвета, сделан на JavaScript.
